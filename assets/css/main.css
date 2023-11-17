@@ -173,6 +173,14 @@ input, select, textarea {
 	p {
 		margin: 0 0 2rem 0;
 	}
+	p.small {
+		margin: 0 0 2rem 0;
+		font-size: 0.5rem;
+	}
+	p.large {
+		margin: 0 0 2rem 0;
+		font-size: 1.5rem;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
